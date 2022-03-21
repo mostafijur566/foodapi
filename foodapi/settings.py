@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-_97iyr&x!l_4w^hu76r$g1lc6)v2-^dmw*713tjdo#^*e_g8ad
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['djangofoodapi.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
